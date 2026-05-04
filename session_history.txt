@@ -1,0 +1,6 @@
+You: Hi, Im feeling distressed
+Bot: I'm here for you. Remember, it's okay to not be okay sometimes. You are not alone in this feeling. Take some deep breaths and try to focus on the present moment. Can you tell me more about what's been troubling you?
+You: I want to die
+You: yes
+Bot: Hello there. It's great to see you reaching out. How are you feeling today? Remember, it's okay to not be okay sometimes. I'm here to listen and support you.
+You: exit

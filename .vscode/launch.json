@@ -1,0 +1,11 @@
+{
+    "configurations": [
+      
+        {
+            "type": "chrome",
+            "name": "https://localhost:8080",
+            "request": "launch",
+            "url": "http://127.0.0.1:5000"
+        }
+    ]
+}
